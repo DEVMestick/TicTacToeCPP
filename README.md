@@ -1,7 +1,3 @@
-Aqui está o **README** em português e inglês conforme solicitado:
-
----
-
 # Tic-Tac-Toe em C++
 
 ## Português
